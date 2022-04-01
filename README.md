@@ -27,12 +27,14 @@ Welcome to my GitHub page. I am currently working as a software engineer at TECH
     • GraphQL
     • Javascript
     • React & Redux
+    • Angular
     • Python
     • MySql
     • Postgresql
     • Rest API
     • Node
     • Neo4J
+    • Fast API
     
  I’m currently working on ...
  
